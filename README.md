@@ -1,0 +1,2 @@
+# PythonTrainingAssignment
+assignment for python
